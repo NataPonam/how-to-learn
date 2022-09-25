@@ -16,9 +16,10 @@
 @import url(../page/footer/__column-heading/footer__column-heading.css);
 @import url(../page/footer/__column-link/footer__column-link.css);
 @import url(../page/footer/__column-links/footer__column-links.css);
-@import url(../page/footer/__column/footer__column.css);
 @import url(../page/footer/__columns/footer__columns.css);
 @import url(../page/footer/__social-icon/footer__social-icon.css);
+@import url(../page/footer/__column/_content_copyright/footer__column_content_copyright.css);
+@import url(../page/footer/__column/_content_info/footer__column_content_info.css);
 @import url(../page/header/header.css);
 @import url(../page/header/__link/header__link.css);
 @import url(../page/header/__main-illustration/header__main-illustration.css);
@@ -26,7 +27,6 @@
 @import url(../page/header/__subtitle/header__subtitle.css);
 @import url(../page/header/__title/header__title.css);
 @import url(../page/kaufman/kaufman.css);
-
 @import url(../page/khan/khan.css);
 @import url(../page/khan/__author/khan__author.css);
 @import url(../page/khan/__book-container/khan__book-container.css);
