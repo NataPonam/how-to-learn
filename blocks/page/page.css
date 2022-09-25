@@ -1,0 +1,36 @@
+@import url(../page/cards/cards.css);
+@import url(../page/container/container.css);
+@import url(../page/description/description.css);
+@import url(../page/digits/digits.css);
+@import url(../page/feynman/feynman.css);
+@import url(../page/footer/footer.css);
+@import url(../page/header/header.css);
+@import url(../page/kaufman/kaufman.css);
+@import url(../page/khan/khan.css);
+@import url(../page/logo/logo.css);
+@import url(../page/oakley/oakley.css);
+@import url(../page/resources/resources.css);
+@import url(../page/section-subtitle/section-subtitle.css);
+@import url(../page/section-title/section-title.css);
+@import url(../page/techniques/techniques.css);
+@import url(../page/two-columns/two-columns.css);
+@import url(../page/video/video.css);
+
+
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
